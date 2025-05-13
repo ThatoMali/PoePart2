@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-ThatoMali\\EventEaseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE48CFED-DCBB-4BD5-872F-BF062F5A1153}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-thatomali\\eventeaseapp\\views\\home\\venue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE48CFED-DCBB-4BD5-872F-BF062F5A1153}|EventEaseApp.csproj|solutionrelative:views\\home\\venue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE48CFED-DCBB-4BD5-872F-BF062F5A1153}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-thatomali\\eventeaseapp\\views\\home\\event.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE48CFED-DCBB-4BD5-872F-BF062F5A1153}|EventEaseApp.csproj|solutionrelative:views\\home\\event.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE48CFED-DCBB-4BD5-872F-BF062F5A1153}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-thatomali\\eventeaseapp\\views\\home\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE48CFED-DCBB-4BD5-872F-BF062F5A1153}|EventEaseApp.csproj|solutionrelative:views\\home\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE48CFED-DCBB-4BD5-872F-BF062F5A1153}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-thatomali\\eventeaseapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE48CFED-DCBB-4BD5-872F-BF062F5A1153}|EventEaseApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE48CFED-DCBB-4BD5-872F-BF062F5A1153}|EventEaseApp.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-thatomali\\eventeaseapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE48CFED-DCBB-4BD5-872F-BF062F5A1153}|EventEaseApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Venue.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-ThatoMali\\EventEaseApp\\Views\\Home\\Venue.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Venue.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-ThatoMali\\EventEaseApp\\Views\\Home\\Venue.cshtml",
+              "RelativeToolTip": "Views\\Home\\Venue.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T16:57:25.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Event.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-ThatoMali\\EventEaseApp\\Views\\Home\\Event.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Event.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-ThatoMali\\EventEaseApp\\Views\\Home\\Event.cshtml",
+              "RelativeToolTip": "Views\\Home\\Event.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T16:56:48.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Booking.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-ThatoMali\\EventEaseApp\\Views\\Home\\Booking.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Booking.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-ThatoMali\\EventEaseApp\\Views\\Home\\Booking.cshtml",
+              "RelativeToolTip": "Views\\Home\\Booking.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T16:56:31.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-ThatoMali\\EventEaseApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-ThatoMali\\EventEaseApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAACgzMzMzEwywBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:52:44.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-ThatoMali\\EventEaseApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-ThatoMali\\EventEaseApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAQzMzMzP7vyIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T16:49:40.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
